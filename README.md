@@ -18,18 +18,18 @@ Also you can open the Project folder in vscode and Go live the main html file i.
 
 ##  Features
 
-- 🌿 Premium modern landing page design
-- 🚚 Animated top scrolling offer banner
-- 🥜 Premium flavoured makhana showcase section
-- 🎯 Attractive hero section with hover effect
-- 👨‍💼 Founder & co-founder profile cards
-- 🔗 Multi-page website navigation
-- 🎨 Smooth UI with clean layouts and styling
-- 📦 Organized footer with social media links
-- ⚡ Fast lightweight website using pure HTML, CSS & JavaScript
-- 🌐 Easy deployment on GitHub and Netlify
-- 🖼️ Product images and premium branding design
-- 💡 Beginner-friendly project structure
+-  Premium modern landing page design
+-  Animated top scrolling offer banner
+-  Premium flavoured makhana showcase section
+-  Attractive hero section with hover effect
+-  Founder & co-founder profile cards
+-  Multi-page website navigation
+-  Smooth UI with clean layouts and styling
+-  Organized footer with social media links
+-  Fast lightweight website using pure HTML, CSS & JavaScript
+-  Easy deployment on GitHub and Netlify
+-  Product images and premium branding design
+-  Beginner-friendly project structure
 ## Website Preview / Screenshots
 
 
